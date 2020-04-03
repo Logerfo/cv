@@ -13,15 +13,14 @@ Software developer.
 
 ## Contact info
 Male. Single.  
-Bauru, São Paulo, Brazil.  
+São Paulo, São Paulo, Brazil.  
 <a href="mailto:bruno@logerfo.tk">bruno@logerfo.tk</a>  
 +55 (14) 9 8197-8257
 
 ## Currently
 
-Working fulltime at an automation systems software house  
-focused on gas stations management workflow.  
-Looking for new opportunities.
+Working fulltime at an financial systems software house  
+both on internal and third party back-end projects.
 
 ## Skills
 <!-- ★☆ -->
@@ -30,7 +29,9 @@ Looking for new opportunities.
 - ★★★★★ - .NET Framework / Core
 - ★★★★☆ - Windows Forms
 - ★★★★☆ - PostgreSQL
+- ★★★☆☆ - SQL Server
 - ★★★☆☆ - ASP .NET
+- ★★☆☆☆ - Entity Framework
 - ★★☆☆☆ - Node.js
 - ★☆☆☆☆ - Typescript
 - ★☆☆☆☆ - Python
@@ -49,13 +50,25 @@ Computer Technician
 
 ## Occupation
 
-`2015 - now`
+`2020 - now`
+[__Beyond Soluções](http://imaginebeyond.com.br/)
+
+- Fulltime job in back-end web development (mid-level)
+- ASP .NET APIs
+- .NET Framework / Core
+- SQL Server, Entity Framework
+- Docker
+- Unit and integration tests
+- Third party financial software integration
+- Code review
+
+`2015 - 2020`
 [__SOS System__](http://sospostos.com.br/)
 
 - Fulltime job in software development (junior and mid-level)
 - Windows Forms applications
 - .NET Framework / Core
-- PostgreSQL, PL/pgSQL
+- PostgreSQL, PL/pgSQL, Npgsql
 - C# 8.0
 - SAP Crystal Reports
 - Unit tests, analyzers, IL weaving
@@ -66,6 +79,7 @@ Computer Technician
 - Project technology and code infrastructure management
   - JetBrains TeamCity CI
   - GitHub, GitLab, BitBucket
+- Code review
 
 `2014`
 __OSTecnologic__
@@ -75,4 +89,4 @@ __OSTecnologic__
 - PostgreSQL database
 
 ---
-Last updated: Dec 2019
+Last updated: Apr 2020
