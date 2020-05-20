@@ -51,7 +51,7 @@ Computer Technician
 ## Occupation
 
 `2020 - now`
-[__Beyond Soluções](http://imaginebeyond.com.br/)
+[__Beyond Soluções__](http://imaginebeyond.com.br/)
 
 - Fulltime job in back-end web development (mid-level)
 - ASP .NET APIs
