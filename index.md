@@ -53,13 +53,14 @@ Computer Technician
 `2020 - now`
 [__Beyond Soluções__](http://imaginebeyond.com.br/)
 
-- Fulltime job in back-end web development (mid-level)
+- Fulltime job in back-end web development (mid and senior level)
 - ASP .NET APIs
 - .NET Framework / Core
 - SQL Server, Entity Framework
 - Docker
 - Unit and integration tests
 - Third party financial software integration
+- Azure DevOps
 - Code review
 
 `2015 - 2020`
@@ -89,4 +90,4 @@ __OSTecnologic__
 - PostgreSQL database
 
 ---
-Last updated: Apr 2020
+Last updated: Jun 2020
