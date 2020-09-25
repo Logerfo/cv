@@ -56,11 +56,11 @@ Computer Technician
 - Fulltime job in back-end web development (mid and senior level)
 - ASP .NET APIs
 - .NET Framework / Core
-- SQL Server, Entity Framework
+- PostgreSQL, SQL Server, Entity Framework (EF Core), Dapper
 - Docker
 - Unit and integration tests
 - Third party financial software integration
-- Azure DevOps
+- Azure DevOps, GitLab
 - Code review
 
 `2015 - 2020`
