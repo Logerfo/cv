@@ -25,8 +25,8 @@ both on internal and third party back-end projects.
 ## Skills
 <!-- ★☆ -->
 
-- ★★★★★ - C# 8.0
-- ★★★★★ - .NET Framework / Core
+- ★★★★★ - C# 9.0
+- ★★★★★ - .NET Framework / Core / .NET 5
 - ★★★★☆ - Windows Forms
 - ★★★★☆ - PostgreSQL
 - ★★★☆☆ - SQL Server
