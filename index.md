@@ -25,15 +25,15 @@ both on internal and third party back-end projects.
 ## Skills
 <!-- ★☆ -->
 
-- ★★★★★ - C# 9.0
-- ★★★★★ - .NET Framework / Core / .NET 5
+- ★★★★★ - C# 10.0
+- ★★★★★ - .NET 6
+- ★★★★☆ - ASP .NET
 - ★★★★☆ - Windows Forms
 - ★★★★☆ - PostgreSQL
 - ★★★☆☆ - SQL Server
-- ★★★☆☆ - ASP .NET
-- ★★☆☆☆ - Entity Framework
+- ★★★☆☆ - Entity Framework
 - ★★☆☆☆ - Node.js
-- ★☆☆☆☆ - Typescript
+- ★★☆☆☆ - Typescript
 - ★☆☆☆☆ - Python
 
 ## Education
@@ -55,8 +55,8 @@ Computer Technician
 
 - Fulltime job in back-end web development (mid and senior level)
 - ASP .NET APIs
-- .NET Framework / Core / .NET 5
-- C# 9.0
+- .NET 6
+- C# 10.0
 - PostgreSQL, SQL Server, Entity Framework (EF Core), Dapper
 - Docker
 - Unit and integration tests
@@ -91,4 +91,4 @@ __OSTecnologic__
 - PostgreSQL database
 
 ---
-Last updated: May 2021
+Last updated: Dec 2021
