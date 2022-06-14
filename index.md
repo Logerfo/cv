@@ -19,8 +19,8 @@ São Paulo, São Paulo, Brazil.
 
 ## Currently
 
-Working fulltime at an financial systems software house  
-both on internal and third party back-end projects.
+Working as a dev lead for a back-end
+team for a tax accounting service.
 
 ## Skills
 <!-- ★☆ -->
@@ -54,6 +54,7 @@ Computer Technician
 [__Beyond Soluções__](http://imaginebeyond.com.br/)
 
 - Fulltime job in back-end web development (mid and senior level)
+- Team leadership
 - ASP .NET APIs
 - .NET 6
 - C# 10.0
@@ -62,7 +63,10 @@ Computer Technician
 - Unit and integration tests
 - Third party financial software integration
 - Azure DevOps, GitLab
+- Technical specification
 - Code review
+- Documentation
+- Tax accounting
 
 `2015 - 2020`
 [__SOS System__](http://sospostos.com.br/)
