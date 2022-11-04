@@ -95,4 +95,4 @@ __OSTecnologic__
 - PostgreSQL database
 
 ---
-Last updated: Dec 2021
+Last updated: Jun 2022
