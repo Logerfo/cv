@@ -25,7 +25,7 @@ team for a tax accounting service.
 ## Skills
 <!-- ★☆ -->
 
-- ★★★★★ - C# 10.0
+- ★★★★★ - C# 11
 - ★★★★★ - .NET 7
 - ★★★★☆ - ASP .NET
 - ★★★★☆ - Windows Forms
@@ -57,7 +57,7 @@ Computer Technician
 - Team leadership
 - ASP .NET APIs
 - .NET 7
-- C# 11.0
+- C# 11
 - PostgreSQL, SQL Server, Entity Framework (EF Core), Dapper
 - Docker
 - Unit and integration tests
@@ -75,7 +75,7 @@ Computer Technician
 - Windows Forms applications
 - .NET Framework / Core
 - PostgreSQL, PL/pgSQL, Npgsql
-- C# 8.0
+- C# 8
 - SAP Crystal Reports
 - Unit tests, analyzers, IL weaving
 - GitHub Actions
