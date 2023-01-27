@@ -26,7 +26,7 @@ team for a tax accounting service.
 <!-- ★☆ -->
 
 - ★★★★★ - C# 10.0
-- ★★★★★ - .NET 6
+- ★★★★★ - .NET 7
 - ★★★★☆ - ASP .NET
 - ★★★★☆ - Windows Forms
 - ★★★★☆ - PostgreSQL
@@ -34,7 +34,7 @@ team for a tax accounting service.
 - ★★★☆☆ - Entity Framework
 - ★★☆☆☆ - Node.js
 - ★★☆☆☆ - Typescript
-- ★☆☆☆☆ - Python
+- ★★☆☆☆ - Python
 
 ## Education
 
@@ -56,8 +56,8 @@ Computer Technician
 - Fulltime job in back-end web development (mid and senior level)
 - Team leadership
 - ASP .NET APIs
-- .NET 6
-- C# 10.0
+- .NET 7
+- C# 11.0
 - PostgreSQL, SQL Server, Entity Framework (EF Core), Dapper
 - Docker
 - Unit and integration tests
