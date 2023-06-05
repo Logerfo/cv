@@ -12,7 +12,7 @@ Software developer.
 </div>
 
 ## Contact info
-Male. Single.  
+Male. Married.  
 São Paulo, São Paulo, Brazil.  
 <a href="mailto:bruno@logerfo.tk">bruno@logerfo.tk</a>  
 +55 (14) 9 8197-8257
