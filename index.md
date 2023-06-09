@@ -84,10 +84,10 @@ Computer Technician
 - Visual Studio Code extensions
 - Fiscal integration (SPED, SAT)
 - Gas pump automation integration
+- Code review
 - Project technology and code infrastructure management
   - JetBrains TeamCity CI
   - GitHub, GitLab, BitBucket
-- Code review
 
 `2014`
 __OSTecnologic__
