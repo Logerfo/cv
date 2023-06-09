@@ -30,11 +30,12 @@ team for a tax accounting service.
 - ★★★★☆ - ASP .NET
 - ★★★★☆ - Windows Forms
 - ★★★★☆ - PostgreSQL
-- ★★★☆☆ - SQL Server
+- ★★★☆☆ - AWS
 - ★★★☆☆ - Entity Framework
 - ★★☆☆☆ - Node.js
 - ★★☆☆☆ - Typescript
 - ★★☆☆☆ - Python
+- ★☆☆☆☆ - Kubernetes
 
 ## Education
 
@@ -59,8 +60,9 @@ Computer Technician
 - .NET 7
 - C# 11
 - PostgreSQL, SQL Server, Entity Framework (EF Core), Dapper
-- Docker
-- Unit and integration tests
+- AWS
+- Docker, Kubernetes
+- XUnit
 - Third party financial software integration
 - Azure DevOps, GitLab
 - Technical specification
