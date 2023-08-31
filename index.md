@@ -54,22 +54,23 @@ Computer Technician
 [__Beyond Soluções__](http://imaginebeyond.com.br/)
 
 - Fulltime job in back-end web development (mid and senior level)
-- Team leadership
+- Team leadership and mentorship
 - ASP .NET APIs
 - .NET 7
-- C# 11
-- PostgreSQL, SQL Server, Entity Framework (EF Core), Dapper
-- AWS S3, SQS
-- Apache Kafka
-- gRPC
-- Redis
-- Docker, Kubernetes
-- XUnit
-- Third party financial software integration
-- Azure DevOps, GitLab
-- Technical specification
-- Code review
-- Documentation
+- C# 11, Typescript
+- Relational database: PostgreSQL, SQL Server, Entity Framework (EF Core), Dapper
+- Non-relational database: MongoDB
+- Cloud: AWS S3, SQS
+- Event streaming: Apache Kafka
+- Protocols: REST, RPC
+- Cache: Redis
+- Containers: Docker, Kubernetes
+- Tests: XUnit
+- Third party financial and payment service integration
+- Management and CI/CD: Azure DevOps, GitLab
+- Solution design, architecture and technical specification
+- Best coding practices documentation, enforcing and review
+- Technical documentation
 - Tax accounting
 
 `2015 - 2020`
