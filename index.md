@@ -32,10 +32,9 @@ team for a tax accounting service.
 - ★★★★☆ - PostgreSQL
 - ★★★☆☆ - AWS
 - ★★★☆☆ - Entity Framework
-- ★★☆☆☆ - Node.js
-- ★★☆☆☆ - Typescript
-- ★★☆☆☆ - Python
-- ★☆☆☆☆ - Kubernetes
+- ★★☆☆☆ - Node.js/Typescript
+- ★★☆☆☆ - Apache Kafka
+- ★★☆☆☆ - Redis
 
 ## Education
 
