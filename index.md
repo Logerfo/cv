@@ -3,12 +3,10 @@ layout: cv
 title: Bruno Logerfo
 ---
 # Bruno Logerfo
-Software developer.
+Software Development Manager
 
 <div id="webaddress">
-<a href="https://github.com/Logerfo">GitHub</a><br>
-<a href="https://logerfo.com.br">Portfolio</a><br>
-<a href="https://www.linkedin.com/in/logerfo/">LinkedIn</a>
+<a href="https://github.com/Logerfo">GitHub</a><br>  <a href="https://logerfo.com.br">Portfolio</a><br>  <a href="https://www.linkedin.com/in/logerfo/">LinkedIn</a>
 </div>
 
 ## Contact info
@@ -16,11 +14,6 @@ Male. Married.
 São Paulo, São Paulo, Brazil.  
 <a href="mailto:bruno@logerfo.com.br">bruno@logerfo.com.br</a>  
 +55 (14) 9 8197-8257
-
-## Currently
-
-Working as a dev lead for a back-end
-team for a tax accounting service.
 
 ## Skills
 <!-- ★☆ -->
@@ -50,7 +43,24 @@ Computer Technician
 
 ## Occupation
 
-`2020 - now`
+`2024 - now`
+[__WEX__](https://www.wexinc.com/)
+
+- Fulltime job in software development management
+- Accountability for large scale .NET and Java projects
+- Multi-region high availability services
+- Payment Card Industry Data Security Standard
+- Multicultural and multidisciplinary teams
+- Partnership with other managers and departments to achieve shared goals
+- Collaboration to create individual development plans
+- Mentorship
+- Performance assessment
+- Delivery management
+- End-to-end coordination
+- Internal policy definition and execution
+- Project documentation
+
+`2020 - 2023`
 [__Beyond Soluções__](http://imaginebeyond.com.br/)
 
 - Fulltime job in back-end web development (mid and senior level)
