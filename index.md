@@ -7,14 +7,14 @@ Software developer.
 
 <div id="webaddress">
 <a href="https://github.com/Logerfo">GitHub</a><br>
-<a href="https://logerfo.tk">Portfolio</a><br>
+<a href="https://logerfo.com.br">Portfolio</a><br>
 <a href="https://www.linkedin.com/in/logerfo/">LinkedIn</a>
 </div>
 
 ## Contact info
 Male. Married.  
 São Paulo, São Paulo, Brazil.  
-<a href="mailto:bruno@logerfo.tk">bruno@logerfo.tk</a>  
+<a href="mailto:bruno@logerfo.com.br">bruno@logerfo.com.br</a>  
 +55 (14) 9 8197-8257
 
 ## Currently
