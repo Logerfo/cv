@@ -48,7 +48,7 @@ Computer Technician
 
 - Fulltime job in software development management
 - Accountability for large scale .NET and Java projects
-- Multi-region high availability services
+- Multi-region high availability cloud hosted services
 - Payment Card Industry Data Security Standard
 - Multicultural and multidisciplinary teams
 - Partnership with other managers and departments to achieve shared goals
