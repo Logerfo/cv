@@ -18,16 +18,15 @@ São Paulo, São Paulo, Brazil.
 ## Skills
 <!-- ★☆ -->
 
-- ★★★★★ - C# 11
-- ★★★★★ - .NET 7
+- ★★★★★ - C#
+- ★★★★★ - .NET
 - ★★★★☆ - ASP .NET
 - ★★★★☆ - Windows Forms
 - ★★★★☆ - PostgreSQL
 - ★★★☆☆ - AWS
+- ★★★☆☆ - Apache Kafka
 - ★★★☆☆ - Entity Framework
 - ★★☆☆☆ - Node.js/Typescript
-- ★★☆☆☆ - Apache Kafka
-- ★★☆☆☆ - Redis
 
 ## Education
 
