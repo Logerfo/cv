@@ -10,7 +10,6 @@ Software Development Manager
 </div>
 
 ## Contact info
-Male. Married.  
 São Paulo, São Paulo, Brazil.  
 <a href="mailto:bruno@logerfo.com.br">bruno@logerfo.com.br</a>  
 +55 (14) 9 8197-8257
@@ -18,15 +17,13 @@ São Paulo, São Paulo, Brazil.
 ## Skills
 <!-- ★☆ -->
 
-- ★★★★★ - C#
-- ★★★★★ - .NET
-- ★★★★☆ - ASP .NET
-- ★★★★☆ - Windows Forms
-- ★★★★☆ - PostgreSQL
-- ★★★☆☆ - AWS
-- ★★★☆☆ - Apache Kafka
-- ★★★☆☆ - Entity Framework
-- ★★☆☆☆ - Node.js/Typescript
+- Languages: C#, Java, Python, Typescript
+- Frameworks: ASP .NET, Sprint Boot
+- Cloud Providers: AWS, ADO
+- Event streaming & messaging: Apache Kafka, AWS SQS, RabbitMQ
+- Databases: PostgreSQL, AWS DynamoDB
+- CI/CD: GitHub Actions, GitLab Pipelines
+- AI: GitHub Copilot, Gemini Pro
 
 ## Education
 
@@ -46,13 +43,13 @@ Computer Technician
 [__WEX__](https://www.wexinc.com/)
 
 - Fulltime job in software development management
+- Mentored a team of 7 developers, resulting in 2 internal promotions with 86% retention rate over 2 years
 - Accountability for large scale .NET and Java projects
-- Multi-region high availability cloud hosted services
-- Payment Card Industry Data Security Standard
+- Managed cloud infrastructure (AWS) across 2 regions, maintaining 99.99% uptime
+- Directed the technical execution for PCI DSS compliance, ensuring 100% adherence and resolving security vulnerabilities
 - Multicultural and multidisciplinary teams
 - Partnership with other managers and departments to achieve shared goals
 - Collaboration to create individual development plans
-- Mentorship
 - Performance assessment
 - Delivery management
 - End-to-end coordination
