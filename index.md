@@ -47,6 +47,7 @@ Computer Technician
 - Accountability for large scale .NET and Java projects
 - Managed cloud infrastructure (AWS) across 2 regions, maintaining 99.99% uptime
 - Directed the technical execution for PCI DSS compliance, ensuring 100% adherence and resolving security vulnerabilities
+- Driven acceleration of agentic AI adoption
 - Multicultural and multidisciplinary teams
 - Partnership with other managers and departments to achieve shared goals
 - Collaboration to create individual development plans
@@ -61,9 +62,7 @@ Computer Technician
 
 - Fulltime job in back-end web development (mid and senior level)
 - Team leadership and mentorship
-- ASP .NET APIs
-- .NET 7
-- C# 11, Typescript
+- C# ASP .NET APIs
 - Relational database: PostgreSQL, SQL Server, Entity Framework (EF Core), Dapper
 - Non-relational database: MongoDB
 - Cloud: AWS S3, SQS
@@ -106,4 +105,4 @@ __OSTecnologic__
 - PostgreSQL database
 
 ---
-Last updated: Jan 2026
+Last updated: Feb 2026
