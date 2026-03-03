@@ -40,8 +40,7 @@ Computer Technician
 ## Occupation
 
 `2024 - now`
-### [__WEX__](https://www.wexinc.com/)
-#### test
+[__WEX__](https://www.wexinc.com/)
 
 - Fulltime job in software development management
 - Mentored a team of 7 developers, resulting in 2 internal promotions with 86% retention rate over 2 years
@@ -79,10 +78,13 @@ Computer Technician
 - Technical documentation
 - Tax accounting
 
-`2015 - 2020`
 [__SOS System__](http://sospostos.com.br/)
+`2017-2020`
+- Mid level software developer
 
-- Fulltime job in software development (junior and mid-level)
+`2015-2017`
+- Junior software developer
+
 - Windows Forms applications
 - .NET Framework / Core
 - PostgreSQL, PL/pgSQL, Npgsql
