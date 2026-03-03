@@ -3,7 +3,7 @@ layout: cv
 title: Bruno Logerfo
 ---
 # Bruno Logerfo
-Software Development Manager
+Software Development Manager, Corporate Payments, Backend Systems
 
 <div id="webaddress">
 <a href="https://github.com/Logerfo">GitHub</a><br>  <a href="https://logerfo.com.br">Portfolio</a><br>  <a href="https://www.linkedin.com/in/logerfo/">LinkedIn</a>
@@ -23,7 +23,7 @@ São Paulo, São Paulo, Brazil.
 - Event streaming & messaging: Apache Kafka, AWS SQS, RabbitMQ
 - Databases: PostgreSQL, AWS DynamoDB
 - CI/CD: GitHub Actions, GitLab Pipelines
-- AI: GitHub Copilot, Gemini Pro
+- AI: GitHub Copilot, Antigravity, Gemini Pro
 
 ## Education
 
@@ -40,7 +40,8 @@ Computer Technician
 ## Occupation
 
 `2024 - now`
-[__WEX__](https://www.wexinc.com/)
+### [__WEX__](https://www.wexinc.com/)
+#### test
 
 - Fulltime job in software development management
 - Mentored a team of 7 developers, resulting in 2 internal promotions with 86% retention rate over 2 years
@@ -98,11 +99,11 @@ Computer Technician
   - GitHub, GitLab, BitBucket
 
 `2014`
-__OSTecnologic__
+__OSTecnologic__ (on-prem retail ERP w/ 100s of customers)
 
 - Internship in software development
 - Delphi desktop applications
 - PostgreSQL database
 
 ---
-Last updated: Feb 2026
+Last updated: Mar 2026
