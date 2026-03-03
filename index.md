@@ -91,7 +91,7 @@ Computer Technician
 ### [__SOS System__](http://sospostos.com.br/) (on-prem retail ERP & POS w/100s of customers)
 
 **Mid level software developer**
-`2017-2020`
+`2017 - 2020`
 
 - Designed new ERP & POS systems
 - Windows Forms applications in .NET Core w/ C# 8
@@ -99,7 +99,7 @@ Computer Technician
 - PostgreSQL database (Npgsql)
 - GitHub Action workflows
 
-`2015-2017`
+`2015 - 2017`
 
 **Junior software developer**
 
@@ -114,7 +114,7 @@ Computer Technician
 ### __OSTecnologic__ (on-prem retail ERP & POS w/ 100s of customers)
 
 **Software development intern**
-`2014`
+`2014 - 2014`
 
 - Developed features and fixed bugs in legacy ERP system
 - Delphi desktop applications
