@@ -101,7 +101,6 @@ ul {
 li {
 	/*second line indent*/
 	padding-left: 1.25em;
-	text-indent: -1.25em;
 	/*color: #777;*/
 }
 
@@ -144,13 +143,13 @@ h2 {
 
 
 h3 {
-	font-size: 1em;
+	font-size: 1.3em;
 	line-height: 2em;
 	color: #ccc;
 	position: relative;
 	top: 1.6em;
-	text-align: right;
-	width: 18%;
+	left: 33%;
+	margin-bottom: 1.5em;
 }
 
 a {
