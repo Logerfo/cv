@@ -17,17 +17,17 @@ São Paulo, São Paulo, Brazil.
 ## Skills
 <!-- ★☆ -->
 
-Languages: C#, Java, Python, Typescript
-Frameworks: ASP .NET, Sprint Boot
-Cloud Providers: AWS, ADO
-Event streaming & messaging: Apache Kafka, AWS SQS, RabbitMQ, Firebase Cloud Messaging
-Infrastructure: AWS Elastic Kubernetes Service
-Databases: PostgreSQL, AWS DynamoDB
-CI/CD: GitHub Actions, GitLab Pipelines
-AI: GitHub Copilot, Antigravity, Gemini Pro
-Leadership: scrum ceremony facilitation, technical leadership, mentorship for career growth and role transformation
-People management: performance review, individual development plan (IDP), safe space in 1:1s
-Project management: coordination with other teams, platforms and departments, development of estimates and roadmaps, Jira Software
+Languages: C#, Java, Python, Typescript  
+Frameworks: ASP .NET, Sprint Boot  
+Cloud Providers: AWS, ADO  
+Event streaming & messaging: Apache Kafka, AWS SQS, RabbitMQ, Firebase Cloud Messaging  
+Infrastructure: AWS Elastic Kubernetes Service  
+Databases: PostgreSQL, AWS DynamoDB  
+CI/CD: GitHub Actions, GitLab Pipelines  
+AI: GitHub Copilot, Antigravity, Gemini Pro  
+Leadership: scrum ceremony facilitation, technical leadership, mentorship for career growth and role transformation  
+People management: performance review, individual development plan (IDP), safe space in 1:1s  
+Project management: coordination with other teams, platforms and departments, development of estimates and roadmaps, Jira Software  
 
 ## Education
 
