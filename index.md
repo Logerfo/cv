@@ -83,7 +83,7 @@ Computer Technician
 - Mid level software developer
 
 `2015-2017`
-- Junior software developer
+Junior software developer
 
 - Windows Forms applications
 - .NET Framework / Core
