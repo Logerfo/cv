@@ -20,10 +20,14 @@ São Paulo, São Paulo, Brazil.
 - Languages: C#, Java, Python, Typescript
 - Frameworks: ASP .NET, Sprint Boot
 - Cloud Providers: AWS, ADO
-- Event streaming & messaging: Apache Kafka, AWS SQS, RabbitMQ
+- Event streaming & messaging: Apache Kafka, AWS SQS, RabbitMQ, Firebase Cloud Messaging
+- Infrastructure: AWS Elastic Kubernetes Service
 - Databases: PostgreSQL, AWS DynamoDB
 - CI/CD: GitHub Actions, GitLab Pipelines
 - AI: GitHub Copilot, Antigravity, Gemini Pro
+- Leadership: scrum ceremony facilitation, technical leadership, mentorship for career growth and role transformation
+- People management: performance review, individual development plan (IDP), safe space in 1:1s
+- Project management: coordination with other teams, platforms and departments, development of estimates and roadmaps, Jira Software
 
 ## Education
 
@@ -39,13 +43,13 @@ Computer Technician
 
 ## Occupation
 
-`2024 - now`
 [__WEX__](https://www.wexinc.com/)
+`2024 - now`
+**Software Development Manager**
 
-- Fulltime job in software development management
 - Mentored a team of 7 developers, resulting in 2 internal promotions with 86% retention rate over 2 years
-- Accountability for large scale .NET and Java projects
-- Managed cloud infrastructure (AWS) across 2 regions, maintaining 99.99% uptime
+- Accountability for large scale .NET and Java projects with millions of transactions per day
+- Managed cloud infrastructure (AWS) across 2 regions for several applications with varied disaster recovery strategies, maintaining 99.99% uptime in all of them
 - Directed the technical execution for PCI DSS compliance, ensuring 100% adherence and resolving security vulnerabilities
 - Driven acceleration of agentic AI adoption
 - Multicultural and multidisciplinary teams
@@ -53,57 +57,60 @@ Computer Technician
 - Collaboration to create individual development plans
 - Performance assessment
 - Delivery management
-- End-to-end coordination
+- End-to-end delivery coordination
 - Internal policy definition and execution
-- Project documentation
+- Internal project documentation
 
-`2020 - 2023`
-[__Beyond Soluções__](http://imaginebeyond.com.br/)
+[__Beyond Soluções__](http://imaginebeyond.com.br/) (fintech)
+`2022 - 2023`
+**Team Lead**
 
-- Fulltime job in back-end web development (mid and senior level)
-- Team leadership and mentorship
-- C# ASP .NET APIs
-- Relational database: PostgreSQL, SQL Server, Entity Framework (EF Core), Dapper
-- Non-relational database: MongoDB
-- Cloud: AWS S3, SQS
-- Event streaming: Apache Kafka
-- Protocols: REST, RPC
-- Cache: Redis
-- Containers: Docker, Kubernetes
-- Tests: XUnit
-- Third party financial and payment service integration
-- Management and CI/CD: Azure DevOps, GitLab
-- Solution design, architecture and technical specification
-- Best coding practices documentation, enforcing and review
+- Architected C# ASP .NET REST & gRPC APIs
+- PostgreSQL database w/ Entity Framework
+- MongoDB
+- AWS S3, SQS
+- Apache Kafka
+- Redis Cache
+- Kubernetes
+- GitLab CI/CD
+- Integration w/ 3rd party payment services
 - Technical documentation
-- Tax accounting
+- Financial market & tax accounting
+- Mentorship
 
-[__SOS System__](http://sospostos.com.br/)
+`2020 - 2022`
+**Senior Backend Software Developer**
+
+- Designed C# ASP .NET REST APIs
+- SQL Server and PostgreSQL databases w/ Dapper
+- Financial market
+
+[__SOS System__](http://sospostos.com.br/) (on-prem retail ERP & POS w/100s of customers)
 `2017-2020`
-- Mid level software developer
+**Mid level software developer**
+
+- Designed new ERP & POS systems
+- Windows Forms applications in .NET Core w/ C# 8
+- Roslyn Code analyzers and IL weaving
+- PostgreSQL database (Npgsql)
+- GitHub Action workflows
 
 `2015-2017`
-Junior software developer
+**Junior software developer**
 
-- Windows Forms applications
-- .NET Framework / Core
-- PostgreSQL, PL/pgSQL, Npgsql
-- C# 8
-- SAP Crystal Reports
-- Unit tests, analyzers, IL weaving
-- GitHub Actions
-- Visual Studio Code extensions
-- Fiscal integration (SPED, SAT)
+- Developed features and fixed bugs in legacy ERP & POS systems
+- Windows Forms applications in .NET Framework
+- PostgreSQL database (PL/pgSQL, Npgsql)
+- Created, maintained and improved performance of SAP Crystal Reports
+- Brazilian tax system integration (SPED, SAT)
 - Gas pump automation integration
-- Technical design and code review
-- Project management
-  - JetBrains TeamCity CI
-  - GitHub, GitLab, BitBucket
+- JetBrains TeamCity CI
 
+__OSTecnologic__ (on-prem retail ERP & POS w/ 100s of customers)
 `2014`
-__OSTecnologic__ (on-prem retail ERP w/ 100s of customers)
+**Software development intern**
 
-- Internship in software development
+- Developed features and fixed bugs in legacy ERP system
 - Delphi desktop applications
 - PostgreSQL database
 
