@@ -45,6 +45,7 @@ Computer Technician
 
 [__WEX__](https://www.wexinc.com/)
 `2024 - now`
+
 **Software Development Manager**
 
 - Mentored a team of 7 developers, resulting in 2 internal promotions with 86% retention rate over 2 years
@@ -63,6 +64,7 @@ Computer Technician
 
 [__Beyond Soluções__](http://imaginebeyond.com.br/) (fintech)
 `2022 - 2023`
+
 **Team Lead**
 
 - Architected C# ASP .NET REST & gRPC APIs
@@ -79,6 +81,7 @@ Computer Technician
 - Mentorship
 
 `2020 - 2022`
+
 **Senior Backend Software Developer**
 
 - Designed C# ASP .NET REST APIs
@@ -87,6 +90,7 @@ Computer Technician
 
 [__SOS System__](http://sospostos.com.br/) (on-prem retail ERP & POS w/100s of customers)
 `2017-2020`
+
 **Mid level software developer**
 
 - Designed new ERP & POS systems
@@ -96,6 +100,7 @@ Computer Technician
 - GitHub Action workflows
 
 `2015-2017`
+
 **Junior software developer**
 
 - Developed features and fixed bugs in legacy ERP & POS systems
@@ -108,6 +113,7 @@ Computer Technician
 
 __OSTecnologic__ (on-prem retail ERP & POS w/ 100s of customers)
 `2014`
+
 **Software development intern**
 
 - Developed features and fixed bugs in legacy ERP system
