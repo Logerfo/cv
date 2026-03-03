@@ -158,9 +158,11 @@ a {
 	text-decoration:none
 }
 
+/*
 a[href^="http"]::after{
     content: " (" attr(href) ") ";
 }
+*/
 
 a:hover {
 	color:#39f
