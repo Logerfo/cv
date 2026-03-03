@@ -43,7 +43,7 @@ Computer Technician
 
 ## Occupation
 
-[__WEX__](https://www.wexinc.com/)
+### [__WEX__](https://www.wexinc.com/)
 
 **Software Development Manager**
 `2024 - now`
@@ -62,7 +62,7 @@ Computer Technician
 - Internal policy definition and execution
 - Internal project documentation
 
-[__Beyond Soluções__](http://imaginebeyond.com.br/) (fintech)
+### [__Beyond Soluções__](http://imaginebeyond.com.br/) (fintech)
 
 **Team Lead**
 `2022 - 2023`
@@ -88,7 +88,7 @@ Computer Technician
 - SQL Server and PostgreSQL databases w/ Dapper
 - Financial market
 
-[__SOS System__](http://sospostos.com.br/) (on-prem retail ERP & POS w/100s of customers)
+### [__SOS System__](http://sospostos.com.br/) (on-prem retail ERP & POS w/100s of customers)
 
 **Mid level software developer**
 `2017-2020`
@@ -111,7 +111,7 @@ Computer Technician
 - Gas pump automation integration
 - JetBrains TeamCity CI
 
-__OSTecnologic__ (on-prem retail ERP & POS w/ 100s of customers)
+### __OSTecnologic__ (on-prem retail ERP & POS w/ 100s of customers)
 
 **Software development intern**
 `2014`
