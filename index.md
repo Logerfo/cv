@@ -10,7 +10,7 @@ Software Development Manager, Corporate Payments, Backend Systems
 </div>
 
 ## Contact info
-São Paulo, São Paulo, Brazil.  
+São Paulo, São Paulo, Brazil  
 <a href="mailto:bruno@logerfo.com.br">bruno@logerfo.com.br</a>  
 +55 (14) 9 8197-8257
 
