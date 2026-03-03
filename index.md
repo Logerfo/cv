@@ -44,9 +44,9 @@ Computer Technician
 ## Occupation
 
 [__WEX__](https://www.wexinc.com/)
-`2024 - now`
 
 **Software Development Manager**
+`2024 - now`
 
 - Mentored a team of 7 developers, resulting in 2 internal promotions with 86% retention rate over 2 years
 - Accountability for large scale .NET and Java projects with millions of transactions per day
@@ -63,9 +63,9 @@ Computer Technician
 - Internal project documentation
 
 [__Beyond Soluções__](http://imaginebeyond.com.br/) (fintech)
-`2022 - 2023`
 
 **Team Lead**
+`2022 - 2023`
 
 - Architected C# ASP .NET REST & gRPC APIs
 - PostgreSQL database w/ Entity Framework
@@ -89,9 +89,9 @@ Computer Technician
 - Financial market
 
 [__SOS System__](http://sospostos.com.br/) (on-prem retail ERP & POS w/100s of customers)
-`2017-2020`
 
 **Mid level software developer**
+`2017-2020`
 
 - Designed new ERP & POS systems
 - Windows Forms applications in .NET Core w/ C# 8
@@ -112,9 +112,9 @@ Computer Technician
 - JetBrains TeamCity CI
 
 __OSTecnologic__ (on-prem retail ERP & POS w/ 100s of customers)
-`2014`
 
 **Software development intern**
+`2014`
 
 - Developed features and fixed bugs in legacy ERP system
 - Delphi desktop applications
