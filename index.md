@@ -52,7 +52,7 @@ Computer Technician
 - Accountability for large scale .NET and Java projects with millions of transactions per day
 - Managed cloud infrastructure (AWS) across 2 regions for several applications with varied disaster recovery strategies, maintaining 99.99% uptime in all of them
 - Directed the technical execution for PCI DSS compliance, ensuring 100% adherence and resolving security vulnerabilities
-- Driven acceleration of agentic AI adoption
+- Driven acceleration of agentic AI adoption to speed up development
 - Multicultural and multidisciplinary teams
 - Partnership with other managers and departments to achieve shared goals
 - Collaboration to create individual development plans
@@ -84,7 +84,7 @@ Computer Technician
 
 **Senior Backend Software Developer**
 
-- Designed C# ASP .NET REST APIs
+- Designed C# ASP .NET REST APIs for financial institutions
 - SQL Server and PostgreSQL databases w/ Dapper
 - Financial market
 
