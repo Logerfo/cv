@@ -103,6 +103,14 @@ li {
 	/*color: #777;*/
 }
 
+ul li {
+  margin-bottom: 0.25rem;
+}
+
+ul li:last-child {
+  margin-bottom: 0;
+}
+
 li ul {
 	position: relative;
 	left: 0;
