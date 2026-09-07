@@ -48,47 +48,47 @@ Computer Technician
 **Software Development Manager**
 `2024 - now`
 
-- Led and developed an engineering team of 7 software engineers focused on digital wallet products; established structured 1:1s, career frameworks, and IDPs, resulting in 2 internal promotions and an 86% retention rate over more than 2 years
-- Owned the end-to-end engineering delivery for mission-critical .NET and Java platforms handling millions of transactions daily across corporate payment systems
-- Architected and maintained multi-region AWS cloud infrastructure (EKS, SQS, DynamoDB), implementing comprehensive disaster recovery strategies to sustain 99.99% SLA across core payment services
-- Directed security initiatives and technical execution for PCI DSS compliance, remediating vulnerabilities and embedding compliance standards directly into CI/CD pipelines and team development workflows
-- Partnered with cross-functional leadership across departments to align engineering roadmaps with business priorities, while spearheading internal adoption of AI-driven developer workflows to accelerate delivery speed
+- • Led and developed an engineering team of 7 software engineers focused on digital wallet products; established structured 1:1s, career frameworks, and IDPs, resulting in 2 internal promotions and an 86% retention rate over more than 2 years.
+- • Owned the end-to-end engineering delivery for mission-critical .NET and Java platforms handling millions of transactions daily across corporate payment systems.
+- • Architected and maintained multi-region AWS cloud infrastructure (EKS, SQS, DynamoDB), implementing comprehensive disaster recovery strategies to sustain 99.99% SLA across core payment services.
+- •Directed security initiatives and technical execution for PCI DSS compliance, remediating vulnerabilities and embedding compliance standards directly into CI/CD pipelines and team development workflows.
+- • Partnered with cross-functional leadership across departments to align engineering roadmaps with business priorities, while spearheading internal adoption of AI-driven developer workflows to accelerate delivery speed.
 
 ### [__Beyond Soluções__](http://imaginebeyond.com.br/) (fintech)
 
 **Team Lead**
 `2022 - 2023`
 
-- Spearheaded technical leadership and greenfield architecture for an automated tax accounting platform tailored for individual B3 investors, modeling complex domain rules (cost basis calculation, day trade/swing trade tax reporting, and DARF generation)
-- Architected and built robust ETL pipelines in C# to parse, validate, and ingest high-volume B3 transaction data (CSV formats) into MongoDB, ensuring data integrity, deduplication, and low-latency querying for tax computation
-- Designed scalable C# ASP.NET Core services integrated with MongoDB for non-relational financial ledger operations, and PostgreSQL with Entity Framework, ensuring high calculation accuracy and data consistency across transaction histories
-- Engineered high-performance internal microservices and integrations using gRPC, Apache Kafka, and AWS (S3, SQS), orchestrating containerized workloads on Kubernetes and establishing automated GitLab CI/CD delivery pipelines
-- Guided engineering best practices, driving system design documentation, code reviews, and cross-service architectural patterns across the developer team
+- • Spearheaded technical leadership and greenfield architecture for an automated tax accounting platform tailored for individual B3 investors, modeling complex domain rules (cost basis calculation, day trade/swing trade tax reporting, and DARF generation).
+- • Architected and built robust ETL pipelines in C# to parse, validate, and ingest high-volume B3 transaction data (CSV formats) into MongoDB, ensuring data integrity, deduplication, and low-latency querying for tax computation.
+- • Designed scalable C# ASP.NET Core services integrated with MongoDB for non-relational financial ledger operations, and PostgreSQL with Entity Framework, ensuring high calculation accuracy and data consistency across transaction histories.
+- • Engineered high-performance internal microservices and integrations using gRPC, Apache Kafka, and AWS (S3, SQS), orchestrating containerized workloads on Kubernetes and establishing automated GitLab CI/CD delivery pipelines.
+- Guided engineering best practices, driving system design documentation, code reviews, and cross-service architectural patterns across the developer team.
   
 `2020 - 2022`
 
 **Senior Backend Software Developer**
 
-- Designed and maintained high-performance C# ASP.NET REST APIs for financial market workflows, utilizing SQL Server and PostgreSQL optimized with Dapper for low-latency database queries
-- Integrated third-party payment gateways and financial services, standardizing payload validations, error handling, and transactional audit trails
+- • Designed and maintained high-performance C# ASP.NET REST APIs for financial market workflows, utilizing SQL Server and PostgreSQL optimized with Dapper for low-latency database queries.
+- • Integrated third-party payment gateways and financial services, standardizing payload validations, error handling, and transactional audit trails.
 
 ### [__SOS System__](http://sospostos.com.br/) (on-prem retail ERP & POS w/100s of customers)
 
 **Mid level software developer**
 `2017 - 2020`
 
-- Co-architected a modernized, lightweight ERP and POS platform from scratch for retail and gas stations, refactoring repetitive monolith code into a clean, highly modular .NET Core component architecture for on-premise client deployments
-- Engineered custom Roslyn code analyzers and applied IL weaving to enforce architectural constraints and clean code standards across the codebase, accelerating engineering velocity
-- Designed robust PostgreSQL schemas (via Npgsql) and automated team deployment workflows using GitHub Actions to streamline release cadences
+- • Co-architected a modernized, lightweight ERP and POS platform from scratch for retail and gas stations, refactoring repetitive monolith code into a clean, highly modular .NET Core component architecture for on-premise client deployments.
+- • Engineered custom Roslyn code analyzers and applied IL weaving to enforce architectural constraints and clean code standards across the codebase, accelerating engineering velocity.
+- • Designed robust PostgreSQL schemas (via Npgsql) and automated team deployment workflows using GitHub Actions to streamline release cadences.
 
 `2015 - 2017`
 
 **Junior software developer**
 
-- Maintained and enhanced legacy Windows Forms (.NET Framework) ERP and POS applications across hundreds of active retail client installations
-- Engineered the company’s first automated CI/CD pipelines from scratch using JetBrains TeamCity, replacing manual release procedures and accelerating deployment predictability across client environments
-- Implemented low-level communication protocols for gas pump automation and ensured compliance with Brazilian tax regulations (SPED, SAT, fiscal document emission)
-- "Optimized complex PostgreSQL procedures (PL/pgSQL) and refined SAP Crystal Reports performance for end-of-day financial reconciliation
+- • Maintained and enhanced legacy Windows Forms (.NET Framework) ERP and POS applications across hundreds of active retail client installations.
+- • Engineered the company’s first automated CI/CD pipelines from scratch using JetBrains TeamCity, replacing manual release procedures and accelerating deployment predictability across client environments.
+- • Implemented low-level communication protocols for gas pump automation and ensured compliance with Brazilian tax regulations (SPED, SAT, fiscal document emission).
+- • "Optimized complex PostgreSQL procedures (PL/pgSQL) and refined SAP Crystal Reports performance for end-of-day financial reconciliation.
 
 ---
 Last updated: Sep 2026
