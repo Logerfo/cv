@@ -18,7 +18,7 @@ São Paulo, São Paulo, Brazil
 <!-- ★☆ -->
 
 **Languages**: C#, Java, Python, Typescript  
-**Frameworks**: ASP .NET, Sprint Boot  
+**Frameworks**: ASP .NET, Spring Boot  
 **Cloud Providers**: AWS, ADO  
 **Event streaming & messaging**: Apache Kafka, AWS SQS, RabbitMQ, Firebase Cloud Messaging  
 **Infrastructure**: AWS Elastic Kubernetes Service  
@@ -48,77 +48,47 @@ Computer Technician
 **Software Development Manager**
 `2024 - now`
 
-- Mentored a team of 7 developers, resulting in 2 internal promotions with 86% retention rate over 2 years
-- Accountability for large scale .NET and Java projects with millions of transactions per day
-- Managed cloud infrastructure (AWS) across 2 regions for several applications with varied disaster recovery strategies, maintaining 99.99% uptime in all of them
-- Directed the technical execution for PCI DSS compliance, ensuring 100% adherence and resolving security vulnerabilities
-- Driven acceleration of agentic AI adoption to speed up development
-- Multicultural and multidisciplinary teams
-- Partnership with other managers and departments to achieve shared goals
-- Collaboration to create individual development plans
-- Performance assessment
-- Delivery management
-- End-to-end delivery coordination
-- Internal policy definition and execution
-- Internal project documentation
+- Led and developed an engineering team of 7 software engineers focused on digital wallet products; established structured 1:1s, career frameworks, and IDPs, resulting in 2 internal promotions and an 86% retention rate over more than 2 years
+- Owned the end-to-end engineering delivery for mission-critical .NET and Java platforms handling millions of transactions daily across corporate payment systems
+- Architected and maintained multi-region AWS cloud infrastructure (EKS, SQS, DynamoDB), implementing comprehensive disaster recovery strategies to sustain 99.99% SLA across core payment services
+- Directed security initiatives and technical execution for PCI DSS compliance, remediating vulnerabilities and embedding compliance standards directly into CI/CD pipelines and team development workflows
+- Partnered with cross-functional leadership across departments to align engineering roadmaps with business priorities, while spearheading internal adoption of AI-driven developer workflows to accelerate delivery speed
 
 ### [__Beyond Soluções__](http://imaginebeyond.com.br/) (fintech)
 
 **Team Lead**
 `2022 - 2023`
 
-- Architected C# ASP .NET REST & gRPC APIs
-- PostgreSQL database w/ Entity Framework
-- MongoDB
-- AWS S3, SQS
-- Apache Kafka
-- Redis Cache
-- Kubernetes
-- GitLab CI/CD
-- Integration w/ 3rd party payment services
-- Technical documentation
-- Financial market & tax accounting
-- Mentorship
-
+- Spearheaded technical leadership and greenfield architecture for an automated tax accounting platform tailored for individual B3 investors, modeling complex domain rules (cost basis calculation, day trade/swing trade tax reporting, and DARF generation)
+- Architected and built robust ETL pipelines in C# to parse, validate, and ingest high-volume B3 transaction data (CSV formats) into MongoDB, ensuring data integrity, deduplication, and low-latency querying for tax computation
+- Designed scalable C# ASP.NET Core services integrated with MongoDB for non-relational financial ledger operations, and PostgreSQL with Entity Framework, ensuring high calculation accuracy and data consistency across transaction histories
+- Engineered high-performance internal microservices and integrations using gRPC, Apache Kafka, and AWS (S3, SQS), orchestrating containerized workloads on Kubernetes and establishing automated GitLab CI/CD delivery pipelines
+- Guided engineering best practices, driving system design documentation, code reviews, and cross-service architectural patterns across the developer team
+  
 `2020 - 2022`
 
 **Senior Backend Software Developer**
 
-- Designed C# ASP .NET REST APIs for financial institutions
-- SQL Server and PostgreSQL databases w/ Dapper
-- Financial market
+- Designed and maintained high-performance C# ASP.NET REST APIs for financial market workflows, utilizing SQL Server and PostgreSQL optimized with Dapper for low-latency database queries
+- Integrated third-party payment gateways and financial services, standardizing payload validations, error handling, and transactional audit trails
 
 ### [__SOS System__](http://sospostos.com.br/) (on-prem retail ERP & POS w/100s of customers)
 
 **Mid level software developer**
 `2017 - 2020`
 
-- Designed new ERP & POS systems
-- Windows Forms applications in .NET Core w/ C# 8
-- Roslyn Code analyzers and IL weaving
-- PostgreSQL database (Npgsql)
-- GitHub Action workflows
+- Co-architected a modernized, lightweight ERP and POS platform from scratch for retail and gas stations, refactoring repetitive monolith code into a clean, highly modular .NET Core component architecture for on-premise client deployments
+- Engineered custom Roslyn code analyzers and applied IL weaving to enforce architectural constraints and clean code standards across the codebase, accelerating engineering velocity
+- Designed robust PostgreSQL schemas (via Npgsql) and automated team deployment workflows using GitHub Actions to streamline release cadences
 
 `2015 - 2017`
 
 **Junior software developer**
 
-- Developed features and fixed bugs in legacy ERP & POS systems
-- Windows Forms applications in .NET Framework
-- PostgreSQL database (PL/pgSQL, Npgsql)
-- Created, maintained and improved performance of SAP Crystal Reports
-- Brazilian tax system integration (SPED, SAT)
-- Gas pump automation integration
-- JetBrains TeamCity CI
-
-### __OSTecnologic__ (on-prem retail ERP & POS w/ 100s of customers)
-
-**Software development intern**
-`2014 - 2014`
-
-- Developed features and fixed bugs in legacy ERP system
-- Delphi desktop applications
-- PostgreSQL database
+- Maintained and enhanced legacy Windows Forms (.NET Framework) ERP and POS applications across hundreds of active retail client installations
+- Engineered the company’s first automated CI/CD pipelines from scratch using JetBrains TeamCity, replacing manual release procedures and accelerating deployment predictability across client environments
+- Implemented low-level communication protocols for gas pump automation and ensured compliance with Brazilian tax regulations (SPED, SAT, fiscal document emission)
+- "Optimized complex PostgreSQL procedures (PL/pgSQL) and refined SAP Crystal Reports performance for end-of-day financial reconciliation
 
 ---
-Last updated: Mar 2026
+Last updated: Sep 2026
