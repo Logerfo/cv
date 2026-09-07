@@ -46,11 +46,11 @@ Computer Technician
 ### [__WEX__](https://www.wexinc.com/)
 
 **Software Development Manager**
-`2024 - now`
+`2024 - present`
 
-- Led and developed an engineering team of 7 software engineers focused on digital wallet products; established structured 1:1s, career frameworks, and IDPs, resulting in 2 internal promotions and an 86% retention rate over more than 2 years.
-- Owned the end-to-end engineering delivery for mission-critical .NET and Java platforms handling millions of transactions daily across corporate payment systems.
-- Architected and maintained multi-region AWS cloud infrastructure (EKS, SQS, DynamoDB), implementing comprehensive disaster recovery strategies to sustain 99.99% SLA across core payment services.
+- Managed and developed a team of 7 software engineers building digital wallet products; implemented structured 1:1s, career frameworks, and individual development plans, contributing to 2 internal promotions and 86% team retention over more than 2 years.
+- Owned end-to-end engineering delivery for mission-critical .NET and Java payment platforms processing millions of transactions daily, coordinating technical execution across multiple teams and business stakeholders.
+- Architected multi-region AWS infrastructure using EKS, SQS, and DynamoDB, implementing disaster recovery strategies that supported a 99.99% SLA across core payment services.
 - Directed security initiatives and technical execution for PCI DSS compliance, remediating vulnerabilities and embedding compliance standards directly into CI/CD pipelines and team development workflows.
 - Partnered with cross-functional leadership across departments to align engineering roadmaps with business priorities, while spearheading internal adoption of AI-driven developer workflows to accelerate delivery speed.
 
